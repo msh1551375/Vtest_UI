@@ -3,10 +3,7 @@
   {
     "id" : 1,
     "question" : " پایتخت الجزیره کجاست ؟" ,
-    "option1" : "ِDubai",
-    "option2" : "Abuja",
-    "option3" : "Aba",
-    "option4" : "Onisha",
+    "option" : ["ِDubai", "Abuja", "Aba", "Onisha"],
     "answer" : "Abuja"
   },
   {
