@@ -1,0 +1,40 @@
+{
+    "test":[
+  {
+    "id" : 1,
+    "question" : " پایتخت الجزیره کجاست ؟" ,
+    "option1" : "New Delhi",
+    "option2" : "Abuja",
+    "option3" : "Aba",
+    "option4" : "Onisha",
+    "answer" : "Abuja"
+  },
+  {
+    "id" : 2,
+    "question" : " پایتخت الجزیره کجاست ؟" ,
+    "option1" : "New Delhi",
+    "option2" : "Abuja",
+    "option3" : "Aba",
+    "option4" : "Onisha",
+    "answer" : "Abuja"
+  },
+  {
+    "id" : 3,
+    "question" : " پایتخت الجزیره کجاست ؟" ,
+    "option1" : "New Delhi",
+    "option2" : "Abuja",
+    "option3" : "Aba",
+    "option4" : "Onisha",
+    "answer" : "Abuja"
+  },
+  {
+    "id" : 4,
+    "question" : " پایتخت الجزیره کجاست ؟" ,
+    "option1" : "New Delhi",
+    "option2" : "Abuja",
+    "option3" : "Aba",
+    "option4" : "Onisha",
+    "answer" : "Abuja"
+  }
+]
+}
