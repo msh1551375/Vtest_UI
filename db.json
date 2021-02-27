@@ -40,31 +40,31 @@
     "eventalk": [
     {
         "id" : 1,
-        "Image" : "./images/speaker1.jpg",
+        "Image" : "./speaker1.jpg",
         "name" : "Jackie Spears",
         "Title" : "Enterperneur"
     },
     {
         "id" : 2,
-        "Image" : "./images/speaker2.jpg",
+        "Image" : "./speaker2.jpg",
         "name" : "John Adams",
         "Title" : "Web Developer"
     },
     {
         "id" : 3,
-        "Image" : "./images/speaker3.jpg",
+        "Image" : "./speaker3.jpg",
         "name" : "Paul George",
         "Title" : "Web Developer"
     },
     {
         "id" : 4,
-        "Image" : "./images/speaker4.jpg",
+        "Image" : "./speaker4.jpg",
         "name" : "James Smith",
         "Title" : "Web Developer"
     },
     {
         "id" : 5,
-        "Image" : "./images/speaker5.jpg",
+        "Image" : "./speaker5.jpg",
         "name" : "Angelia Crawford",
         "Title" : "Web Developer"
     }
